@@ -1,4 +1,5 @@
 === IndiBiz ===
+我最喜欢的wp主题
 
 Contributors: InfoTuts
 Tags:= left-sidebar, custom-background, custom-colors, custom-menu, widgetized-footer, featured-images, full-width-template, sticky-post, translation-ready, responsive-layout, theme-options, threaded-comments, business-theme
